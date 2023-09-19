@@ -1,6 +1,3 @@
-Hello World!
+NEIN NEIN NEIN
 
-Hello git ;)
-Hallo Welt :/
-
-added at the third commit
+added a fourth comment 
